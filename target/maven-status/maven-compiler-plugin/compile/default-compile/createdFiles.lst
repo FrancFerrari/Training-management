@@ -1,0 +1,12 @@
+com/allenamento/model/Immagine.class
+com/allenamento/view/AllenamentoDetailWindow.class
+com/allenamento/util/LanguageManager.class
+com/allenamento/AllenamentoManagerApp.class
+com/allenamento/view/AllenamentoDialog.class
+com/allenamento/dao/AllenamentoDAO.class
+com/allenamento/dao/ImmagineDAO.class
+com/allenamento/dao/DatabaseConnection.class
+com/allenamento/util/ImageManager.class
+com/allenamento/view/MainWindow.class
+com/allenamento/model/Allenamento.class
+com/allenamento/controller/AllenamentoController.class
